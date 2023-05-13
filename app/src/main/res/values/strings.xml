@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TarjetaDigital3</string>
+    <string name="tituloperfil">PERFIL</string>
+    <string name="datousuario">Datos del usuario</string>
+</resources>
